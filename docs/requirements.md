@@ -1,6 +1,6 @@
 # Functional and Non-Functional Requirements
 
-## ✅ Functional Requirements
+## Functional Requirements
 
 | ID   | Requirement Description                                                   |
 |------|----------------------------------------------------------------------------|
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔐 Non-Functional Requirements
+##  Non-Functional Requirements
 
 | ID    | Requirement Description                                                           |
 |-------|------------------------------------------------------------------------------------|
