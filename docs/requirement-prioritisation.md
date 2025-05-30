@@ -2,7 +2,7 @@
 
 This table ranks the functional and non-functional requirements based on their importance and urgency for the success of the Healthcare Appointment App.
 
-## ✅ Functional Requirements
+##  Functional Requirements
 
 | Requirement ID | Description                                               | Priority  |
 |----------------|-----------------------------------------------------------|-----------|
@@ -16,7 +16,7 @@ This table ranks the functional and non-functional requirements based on their i
 
 ---
 
-## 🔐 Non-Functional Requirements
+##  Non-Functional Requirements
 
 | Requirement ID | Description                                               | Priority  |
 |----------------|-----------------------------------------------------------|-----------|
